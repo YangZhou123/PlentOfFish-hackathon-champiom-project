@@ -1,0 +1,14 @@
+Fabric
+Flask-SQLAlchemy
+Flask-WTF
+WTForms
+coverage
+watson-developer-cloud
+simplejson
+pandas
+numpy
+
+
+# ecdsa
+# paramiko
+# pycrypto
